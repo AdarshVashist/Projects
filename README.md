@@ -78,4 +78,4 @@ Web Development Demo Pages collection<br><br>
 | Age Calculator | [Code](https://github.com/DevanshMudgal/Web-Development/tree/master/AgeCalculator) | [Demo](https://demo.100jsprojects.com/age-calculator) |
 
 
-# Projects
+
